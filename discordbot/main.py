@@ -242,4 +242,4 @@ async def on_button_click(interaction):
 
 
 
-client.run('MTIwMjIwMzMxMTM3ODUzNDQxMA.Gqz39r.-8xPJ8fLgsZ_8d8TSacgrdnH7n8UhPCq5C3rho')    
+client.run('Your Bot Token')    
